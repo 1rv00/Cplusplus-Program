@@ -21,3 +21,5 @@ What skills from this project will be particulary transferable to other projects
 Defintely my organizational skills will come in handy in future projects and in life. This type of program also seems like a very good real world scenario that one might have to come up with in a job like that. 
 
 How did you make this program maintainable, readable, and adaptable?
+
+This program is maintable and readable because when creating it, i put notes in all the important lines of code.
